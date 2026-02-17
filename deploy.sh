@@ -10,8 +10,8 @@ sudo yum install git -y
 git --version
 
 echo "🔧 Configuring Git..."
-git config --global user.name "Atul Kamble"
-git config --global user.email "atul_kamble@hotmail.com"
+git config --global user.name "swayam savekar"
+git config --global user.email "swayamsavekar21@mail.com"
 git config --list
 
 echo "🐳 Installing Docker..."
