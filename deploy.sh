@@ -11,7 +11,7 @@ git --version
 
 echo "🔧 Configuring Git..."
 git config --global user.name "swayam savekar"
-git config --global user.email "swayamsavekar21@mail.com"
+git config --global user.email "swayamsavekar21@gmail.com"
 git config --list
 
 echo "🐳 Installing Docker..."
