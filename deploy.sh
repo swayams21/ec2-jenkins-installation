@@ -10,7 +10,7 @@ sudo yum install git -y
 git --version
 
 echo "🔧 Configuring Git..."
-git config --global user.name "swayam savekar"
+git config --global user.name "swayamsiddha savekar"
 git config --global user.email "swayamsavekar21@gmail.com"
 git config --list
 
